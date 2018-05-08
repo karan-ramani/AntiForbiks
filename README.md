@@ -1,5 +1,5 @@
 # AntiForbiks
-VbScript which attempts to reverse the actions of forbiks worm/virus.
+VbScript which attempts to remove forbiks worm/virus and reverse the malicious actions by it.
 
 There are 2 Variants -
   a. Normal Variant to run on any generic windows machine.
