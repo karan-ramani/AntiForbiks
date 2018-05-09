@@ -1,5 +1,4 @@
 'Author - Karan Ramani
-'Email - Karan.Ramani@gmail.com
 On Error Resume Next 
 
 Dim sh
