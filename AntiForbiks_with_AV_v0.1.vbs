@@ -1,5 +1,4 @@
 'Author - Karan Ramani
-'Email - Karan.Ramani@gmail.com
 'Script with AV support (blank files cleanup)
 
 On Error Resume Next 
