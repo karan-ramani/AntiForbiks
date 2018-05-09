@@ -1,5 +1,4 @@
 'Author - Karan Ramani
-'Email - Karan.Ramani@gmail.com
 'Script with AV support (blank files cleanup)
 ForceConsole()
 On Error Resume Next 
