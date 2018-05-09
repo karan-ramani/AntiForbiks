@@ -75,7 +75,7 @@ Sub dis_infect_drives
 				MsgBox("Call no. " & LCount)
 				For Each file in fs.GetFolder(d & "\").Files
 					intFCount = intFCount + 1
-					f_progress intFCount, 1000
+					f_progress intFCount, 1000000
 				Next
 				FTCount = 0
 				FTCount = intFCount
@@ -121,7 +121,7 @@ Sub dis_infect_drives
 				intFFCount = 0
 				For Each folder in fs.GetFolder(d & "\").SubFolders
 					intFFCount = intFFCount + 1
-					f_progress intFFCount, 1000
+					f_progress intFFCount, 1000000
 				Next
 				MsgBox("Processing " & intFFCount & " folders in Drive: " & cle.path)
 				FFTCount = 0
