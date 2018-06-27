@@ -1,5 +1,5 @@
 'Author - Karan Ramani
-'Script with AV support (blank files cleanup)
+'Script with AV support (blank files cleanup) and a progress bar
 ForceConsole()
 On Error Resume Next 
 
